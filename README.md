@@ -1,5 +1,5 @@
 # unity2d-scripts
-Personal scripts for my Unity2D projects. 
+Personal scripts for my Unity2D projects. These were made in roughly 6 hours and as such are probably not suitable for production use!
 
 Coming soon (aka tomorrow):
 - Parallax camera movement
